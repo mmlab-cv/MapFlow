@@ -1,6 +1,7 @@
 # MapFlow
 
-**Official implementation of the paper: _MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow_**
+**Official implementation of the paper:\
+_MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow_**
 
 ## 📁 Repository Structure
 
@@ -31,12 +32,12 @@ python main.py --flagfile config/config_eth_uni.cfg
 ```
 
 
-- Model weights will be saved in: weights/normalizingflow/
-- Results will be stored in a newly created results/ directory.
+- Model weights will be saved in: `weights/normalizingflow/`
+- Results will be stored in: `results/`
 
 ## 📄 Citation
 
-If you find this work useful in your research, please consider citing:
+If you find this work useful in your research, please consider citing:\
 @inproceedings{stefani2024mapflow,\
 &nbsp;&nbsp;&nbsp;&nbsp;  title={MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow},\
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Stefani, Antonio Luigi and Bisagno, Niccol{\o} and Conci, Nicola},\
