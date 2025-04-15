@@ -51,4 +51,4 @@ If you find this work useful in your research, please consider citing:
 This project is licensed under the Creative Commons Zero v1.0 Universal license (CC0 1.0).
 You are free to use, modify, and distribute this software without restriction.
 
-See the LICENSE file for full details, or visit creativecommons.org/publicdomain/zero/1.0.
+See the LICENSE file for full details, or visit [creativecommons.org/publicdomain/zero/1.0](https://creativecommons.org/publicdomain/zero/1.0).
